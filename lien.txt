@@ -1,3 +1,3 @@
-https://github.com/Bfabien99/money_gest.git
-https://Bfabien99.github.io
+https://github.com/stephanefab/money_gest.git
+https://stephanefab.github.io/simplepage/
 https://figma.com/share/money_gest
